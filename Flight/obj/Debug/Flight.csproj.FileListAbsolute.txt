@@ -8,3 +8,13 @@ C:\Users\smois\source\repos\Flight\obj\Debug\Flight.csproj.GenerateResource.cach
 C:\Users\smois\source\repos\Flight\obj\Debug\Flight.csproj.CoreCompileInputs.cache
 C:\Users\smois\source\repos\Flight\obj\Debug\Flight.exe
 C:\Users\smois\source\repos\Flight\obj\Debug\Flight.pdb
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withAtmoshpere-\Flight\bin\Debug\Flight.exe.config
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withAtmoshpere-\Flight\bin\Debug\Flight.exe
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withAtmoshpere-\Flight\bin\Debug\Flight.pdb
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withAtmoshpere-\Flight\obj\Debug\Flight.csprojAssemblyReference.cache
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withAtmoshpere-\Flight\obj\Debug\Flight.Form1.resources
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withAtmoshpere-\Flight\obj\Debug\Flight.Properties.Resources.resources
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withAtmoshpere-\Flight\obj\Debug\Flight.csproj.GenerateResource.cache
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withAtmoshpere-\Flight\obj\Debug\Flight.csproj.CoreCompileInputs.cache
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withAtmoshpere-\Flight\obj\Debug\Flight.exe
+C:\Users\q-2-0\Source\Repos\FlightSimulation-withAtmoshpere-\Flight\obj\Debug\Flight.pdb
